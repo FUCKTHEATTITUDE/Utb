@@ -5,7 +5,7 @@ class Config:
 
     BOT_TOKEN = os.environ.get("BOT_TOKEN","6249559768:AAFmG1A7WucTp83nofzUk63HXJhzf9c-v3s")
 
-    SESSION_NAME = "youtubeitbot"
+    SESSION_NAME = "session_name"
 
     API_ID = int(os.environ.get("API_ID","14116322"))
 
